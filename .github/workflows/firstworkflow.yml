@@ -1,0 +1,11 @@
+name: irstworkflow
+on: workflow_dispatch
+jobs:
+  scsfirst-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: print Greeting
+        run: echo "HelloWorld"
+      - name: GoodBye
+        run: echo "GoodBye"
+      
