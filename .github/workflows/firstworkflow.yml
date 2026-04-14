@@ -1,4 +1,4 @@
-name: irstworkflow
+name: firstworkflow
 on: workflow_dispatch
 jobs:
   scsfirst-job:
