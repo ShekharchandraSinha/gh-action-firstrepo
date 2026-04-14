@@ -8,5 +8,4 @@ jobs:
         run: echo "HelloWorld"
       - name: GoodBye
         run: echo "GoodBye"
-        run: date
-      
+       
